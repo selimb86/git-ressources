@@ -19,5 +19,5 @@ A repository that lists interessent git ressources
 ## Git Immersion
 * Learn git by practicing 53 labs: http://gitimmersion.com/
 
-# Atlassian
+## Atlassian git tutorials
 * Learn Git - Git tutorials, workflows and commands: https://www.atlassian.com/git
